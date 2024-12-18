@@ -74,7 +74,7 @@ verseTwo = \lyricmode {
 
 verseThree = \lyricmode {
   \set stanza = "3"
-  O enter then his gates with praise,
+  O en -- ter then his gates with praise,
   ap -- proach with joy his courts un -- to;
   praise, laud, and bless his Name al -- ways,
   for it is seem -- ly so to do.
